@@ -1,0 +1,5 @@
+git clone https://github.com/handshake-org/hsd.git
+cd hsd
+npm i
+
+./bin/hsd --log-level info
